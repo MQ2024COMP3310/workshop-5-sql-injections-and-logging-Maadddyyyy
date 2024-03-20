@@ -23,6 +23,10 @@
 		},
 		{
 			"path": "ql"
+		},
+		{
+			"name": "[MQ2024COMP3310/workshop-5-sql-injections-and-logging-Maadddyyyy source archive]",
+			"uri": "codeql-zip-archive://1-189/c:\\Users\\maddi\\AppData\\Roaming\\Code\\User\\workspaceStorage\\78ffc18530ad35e2eb621b9f0204e946\\GitHub.vscode-codeql\\mq2024comp3310-workshop-5-sql-injections-and-logging-maadddyyyy\\java\\src.zip"
 		}
 	],
 	"settings": {
